@@ -1,4 +1,4 @@
-package com.example.gysup
+package pt.hestiatechnology.gysup
 
 import io.flutter.embedding.android.FlutterActivity
 
